@@ -54,4 +54,3 @@ Bots:
 - [@Akuma95](https://telegram.me/Akuma_95) DEPRECATED
 - [@Akuma95_Bot](https://telegram.me/Akuma95_bot) (API version)
 
-[Join](https://telegram.me/joinchat/ASAvlj0ebrIkJ6JXmUG-YA) the support group for help.
