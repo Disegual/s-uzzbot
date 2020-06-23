@@ -52,5 +52,5 @@ $ sudo stop uzzbot # To stop it
 Bots:
 
 - [@Akuma95](https://telegram.me/Akuma_95) DEPRECATED
-- [@Akuma95_Bot](https://telegram.me/Akuma95_bot) (API version)
+- [@Akuma95_Bot](https://telegram.me/Akuma95_bot) (API Version) MAINTENACE
 
