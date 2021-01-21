@@ -2,7 +2,6 @@ THIS PROJECT IS DEPRECATED
 ============
 
 s(uper)-uzzbot (telegram-bot)
-============
 
 A Telegram Bot based on plugins using [tg](https://github.com/Rondoozle/tg). Forked from [uziins' uzzbot](https://github.com/uziins/uzzbot), which is forked from [Yagop's](https://github.com/yagop/telegram-bot).
 
