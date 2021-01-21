@@ -1,5 +1,4 @@
 THIS PROJECT IS DEPRECATED
-
 ============
 
 s(uper)-uzzbot (telegram-bot)
