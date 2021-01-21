@@ -1,3 +1,7 @@
+THIS PROJECT IS DEPRECATED
+
+============
+
 s(uper)-uzzbot (telegram-bot)
 ============
 
@@ -51,6 +55,6 @@ $ sudo stop uzzbot # To stop it
 ------------
 Bots:
 
-- [@Akuma95](https://telegram.me/Akuma_95) DEPRECATED
-- [@Akuma95_Bot](https://telegram.me/Akuma95_bot) (API Version) MAINTENANCE
+- [@Akuma95](https://telegram.me/Akuma_95) [DEPRECATED]
+- [@Akuma95_Bot](https://telegram.me/Akuma95_bot) (API Version)[DEPRECATED]
 
